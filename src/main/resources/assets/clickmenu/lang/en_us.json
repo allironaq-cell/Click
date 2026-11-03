@@ -1,0 +1,17 @@
+{
+  "key.clickmenu.open_menu": "Open Menu",
+  "key.category.clickmenu.main": "Click Menu",
+
+  "clickmenu.screen.title": "Click Menu",
+  "clickmenu.screen.click_type.left": "Left Click",
+  "clickmenu.screen.click_type.right": "Right Click",
+  "clickmenu.screen.cps": "CPS =",
+  "clickmenu.screen.button": "Button: %s",
+  "clickmenu.screen.button.listening": "Press a key...",
+  "clickmenu.screen.mode.hold": "Mode: Hold",
+  "clickmenu.screen.mode.toggle": "Mode: Toggle",
+  "clickmenu.screen.hint": "Press M or Esc to close. Settings save instantly.",
+
+  "clickmenu.message.on": "Click Menu: ON",
+  "clickmenu.message.off": "Click Menu: OFF"
+}

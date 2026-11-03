@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "clickmenu",
+  "version": "${version}",
+  "name": "Click Menu",
+  "description": "An autoclicker with an in-game settings menu (click type, CPS, activation key, hold/toggle).",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.clickmenu.ClickMenuMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
